@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uzabeifa.github.io/ZHy/sitemap_index.txt
+Sitemap: https://uzabeifa.github.io/ZYy/sitemap_index.txt
+Sitemap: https://uzabeifa.github.io/nWr/sitemap_index.txt
+Sitemap: https://uzabeifa.github.io/xfZ/sitemap_index.txt
